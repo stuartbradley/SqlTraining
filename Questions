@@ -4,3 +4,8 @@ select only order id where unit price is more than 1000
 join  antaric species to antarctic populations
 how many employees live in the united kingdom?
 how many employees have a max salary over 200000?
+how many warehouses have Apple AirPods Pro Noise Cancelling True Wireless Headphones in stock, and how many overall are in stock?
+
+Change the list price of Apple AirPods Pro Noise Cancelling True Wireless Headphone to 509.00
+How many employees name begin with J?
+Delete PBX 21 inch Series 9 Monitor from products.
